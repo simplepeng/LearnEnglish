@@ -212,3 +212,161 @@
 
 ## 所有格
 
+所有格可放在名词前面，表示该名词是属于`谁的`。正因为放在名词前面，所以也可以视为形容词，或称为`所有形容词`，如his book（他的书）、Amy's boyfrind（艾米的男朋友）。所有格也可以用`介词of`来表示`属于...的`，如the cover of the book（书的封面）。
+
+**所有格的形成方式：**
+
+* 形容词性物主代词 -- my/our/his/its/her/your/their
+* 名词+`‘s` -- Peter's/my monther
+* of+名词 -- of the table/of London
+* 集合名词，后面直接加`’s` -- children's/people
+* 词尾为s的复数名词，加`‘`，不加s -- the boys'/the students'
+* 两人以上共同拥有，最后一个名词后面加`’s` -- Steven and Jack's
+* 两人以上各自拥有，每个名词后面各自加`‘s` -- Steven's and Jack's
+
+**所有格的小陷阱：**
+
+> Peter and Jerry's mon VS Peter's and Jerry's moms
+>
+> Peter and Jerry's mon 指 彼得和杰瑞两个人是兄弟，两人拥有一个共同的妈妈，所以mon是单数
+>
+> Peter's and Jerry's moms 指 彼得和杰瑞各自的妈妈，所以mon为复数
+
+**所有格的用法：**
+
+所有格无法独立在句子中使用，后面一定要接名词形成”名词短语“，并作为主语、主语补语（主语补语也就是`表语`）或宾语。（若是of + 名词，则名词放前面）
+
+1. 作主语
+
+> `My father` is a police officer = 我的父亲是一名警官
+
+2. 作主语补语（表语）
+
+> His wife is the `boy's teacher ` = 他太太是男孩们的老师
+
+3. 作动词的宾语
+
+> I can't stand `the weather of London` = 我无法忍受伦敦的天气
+
+4. 作介词的宾语
+
+> I am in love with Amy and Emily's brother = 我爱上了艾米和艾米丽的哥哥
+
+## 冠词
+
+冠词是一种限定词，`不定冠词`的`a/an`通常放在`未指定`的单数名词前，如a boy；`定冠词`的`the`则放在`有指定`的单复数名词或不可数名词前，如the boy。冠词虽然分”定冠词和不定冠词“两种，但总共只有三个，即”a、an、the“。
+
+**不定冠词：a/an**
+
+a和an都是指一个，因此后面只能接单数的可数名词。
+
+| a    | 用在首字母为`辅音`的单数名词前 | a book/a window/a year   |
+| ---- | ------------------------------ | ------------------------ |
+| an   | 用在首字母为`元音`的单数名词前 | an egg/an hour/an island |
+
+注意：
+
+
+
+**定冠词：the**
+
+the没有单复数之分，后面可以接单数可数名词、复数可数名词，也可以接不可数名词。
+
+**什么时候用定冠词：**
+
+1. 表示`特定的`的人、事、物
+
+有特定指称的对象时，前面要加定冠词the，以表示”指定“。
+
+> Mr.Smith is the teacher of the class = 史密斯先生是这个班级的老师
+>
+> Did you enjoy the movie? = 你喜欢那部电影吗？
+
+2. 表示独一无二的自然事物
+
+自然界独一无二的事物前面，要加冠词，表示”唯一“
+
+> the moon、the sun、the sky
+>
+> The earth moves around the sun = 地球绕着太阳转
+
+3. 表示方向或方位时
+
+> the right/the left/the north/the east
+>
+> The forest is on the right of the river = 森林在河的右侧
+
+4. 专有名词前
+
+在”专属名词“的自然景观，如河流、山脉、群岛、海洋或建筑物等，前面也会加上定冠词the。
+
+> the Pacific Ocean 太平洋、the Nile 尼罗河、the Alps 阿尔卑斯山
+>
+> She swam across the Yellow River = 她游泳横渡了黄河
+
+5. 序数词前
+
+表示”第几......“的序数词之前，必须加定冠词the。
+
+> the first 第一、the second 第二、the tenth 第十
+>
+> She was the first one to get up = 她是第一个起床的人
+
+6. 形容词最高级之前
+
+表示”最......“的形容词最高级之前，必须要加定冠词。
+
+> the best 最棒的、the worst 最糟的、the most 最多的、the least 最少的
+>
+> I have the best mon in the world = 我拥有世界上最棒的妈妈
+
+## 形容词
+
+形容词是用来修饰”名词“和”代词“，其存在与否并不影响句子的结构，但是使用形容词能增加句子的丰富性。
+
+如”I have an idea“和”I have an gread idea“，这两个句子比较起来，后者多了形容词great来修饰名词idea，比前句更具体，更能吸引大家对idea的注意。
+
+**形容词的语法：**
+
+形容词有两种用法，一种是用来放在`名词之前`修饰名词，一种是放在`系动词`之后作宾语。
+
+1. 放在名词之前修饰名词
+
+形容词+名词=名词短语
+
+> smart boy、crazy idea、pretty girl
+
+名词短语为名词的相等语，在句子中可视为”一个名词”来使用，可以作为句子的主语，亦可以作为补语或宾语。
+
+> The handsome man is my husband = 哪个英俊的男子是我的丈夫
+>
+> Mike is a smart boy = 迈克是个聪明的男孩
+>
+> She wore a beautiful dress = 她穿了一条美丽的连衣裙
+
+2. 放在系动词之后，作为表语
+
+形容词可以放在系动词如is、are或look、smell等后面，作为修饰前面主语的补语（表语）
+
+> My parents are happy
+>
+> The cake looks deliciour = 蛋糕看起来很美味
+
+**形容词的种类：**
+
+1. 代名形容词：可以当作形容词用的代词，即代名形容词
+2. 数量形容词：用来表示名词的数或量有多少的形容词
+3. 性状形容词：用来修饰名词的性质，外观，状态，特性等的形容词
+
+**形容词的顺序：**
+
+> 代名形容词>数量形容词>性状形容词 + 名词
+
+1. 包含“冠词、指示形容词、不定形容词及所有形容词”的代名形容词要放在名词短语的最前面。
+2. 包含“序数词、数词”的数量形容词紧接在后。
+3. 最后才是放描述“性质、外观、专有形容词、材质”等的形状形容词。
+
+> The first two days = 前两天 -- 冠词->序数词->数词->名词
+>
+> These two old ladies = 这两个老太太 -- 指示形容词->数词->性状形容词->名词
+
