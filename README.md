@@ -8,6 +8,8 @@
 
 [旋元佑进阶文法 (codeyu.com)](https://grammar.codeyu.com/)
 
+[英语极简学习法- 廖恒、胡赛楠](https://weread.qq.com/web/bookDetail/b7732720813ab7b49g0185f7)
+
 ## 合集视频
 
 [基础语法-哔哩哔哩]( https://b23.tv/QsTzdi5)
