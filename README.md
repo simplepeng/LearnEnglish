@@ -31,4 +31,5 @@
 ## 一些工具
 
 [prettypolly](https://www.prettypolly.app/)
+[qwerty-learner](https://qwerty.kaiyi.cool/) - 一个为键盘工作中设计得单词与肌肉记忆锻炼软件
 
