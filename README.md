@@ -14,6 +14,8 @@
 
 [基础语法-哔哩哔哩]( https://b23.tv/QsTzdi5)
 
+[英语语法精讲合集](https://www.bilibili.com/video/BV1XY411J7aG/) - 英语兔
+
 ## 有趣的视频或文章
 
 [人工智能vs人类！ 谁才是更好的英语口语老师？](https://b23.tv/TxqE7ZN)
@@ -27,6 +29,8 @@
 [英语Winter老师](https://space.bilibili.com/1122933332)
 
 [蟹老板英语课](https://b23.tv/Z74alPb)
+
+[英语兔](https://space.bilibili.com/483162496)
 
 ## 一些工具
 
