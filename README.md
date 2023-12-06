@@ -14,11 +14,13 @@
 
 ## 有趣的视频或文章
 
-[人工智能vs人类！ 谁才是更好的英语口语老师？](https://b23.tv/TxqE7ZN)
+[人工智能vs人类！谁才是更好的英语口语老师？](https://b23.tv/TxqE7ZN)
 
 [解谜英语语法-王垠](http://www.yinwang.org/blog-cn/2018/11/23/grammar)
 
 [英语语法基础知识大全](https://zhuanlan.zhihu.com/p/400448345)
+
+[英语速成的方法-](https://www.bilibili.com/video/BV17B4y127aT)
 
 ## 感谢
 
