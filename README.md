@@ -4,7 +4,7 @@
 
 ## 看过的书籍
 
-《零基础英语语法入门》
+[零基础学好英语语法](https://weread.qq.com/web/bookDetail/732328b0718995a47324961) - 邱律苍
 
 [旋元佑进阶文法](https://grammar.codeyu.com/)
 
@@ -29,6 +29,8 @@
 [Github上收藏较高的英语学习经验](https://byoungd.github.io/English-level-up-tips/#/)
 
 [英语语法速成](https://www.bilibili.com/video/BV1Z5411V7d) - 李雷
+
+[想学口语基础太差？只会考试不会表达？1个视频让你口语开挂速成！](https://www.bilibili.com/video/BV1Xu4y1H79i)
 
 ## 感谢
 
