@@ -12,7 +12,7 @@
 
 ## 合集视频
 
-[基础语法-哔哩哔哩](https://b23.tv/QsTzdi5)
+[基础语法](https://space.bilibili.com/1122933332/channel/collectiondetail?sid=421466) - 英语Winter老师
 
 [英语语法精讲合集](https://www.bilibili.com/video/BV1XY411J7aG/) - 英语兔
 
