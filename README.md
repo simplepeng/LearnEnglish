@@ -2,6 +2,8 @@
 
 [语法总结](/grammar.md)
 
+[思维导图](https://www.zhixi.com/view/68f20a62)
+
 ## 看过的书籍
 
 [零基础学好英语语法](https://weread.qq.com/web/bookDetail/732328b0718995a47324961) - 邱律苍
