@@ -38,6 +38,8 @@
 
 [Github上收藏较高的英语学习经验](https://byoungd.github.io/English-level-up-tips/#/)
 
+[程序员英语学习指南](https://icodeit.org/2020/05/how-to-learn-english/)
+
 ## 感谢
 
 [英语Winter老师](https://space.bilibili.com/1122933332)
