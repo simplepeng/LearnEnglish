@@ -56,3 +56,5 @@
 
 [qwerty-learner](https://qwerty.kaiyi.cool/) - 一个为键盘工作中设计得单词与肌肉记忆锻炼软件
 
+[英语学习网站大全](https://www.yywz123.com/)
+
