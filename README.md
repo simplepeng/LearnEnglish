@@ -58,3 +58,5 @@
 
 [英语学习网站大全](https://www.yywz123.com/)
 
+[Deno Park](https://denopark.com/) - 有一个打字记单词的网站，但是支持的语言更多
+
