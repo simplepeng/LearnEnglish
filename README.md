@@ -40,6 +40,8 @@
 
 [程序员英语学习指南](https://icodeit.org/2020/05/how-to-learn-english/)
 
+[hzpt-inet-club/english-note: 从0开始学习英语语法 (github.com)](https://github.com/hzpt-inet-club/english-note)
+
 ## 感谢
 
 [英语Winter老师](https://space.bilibili.com/1122933332)
