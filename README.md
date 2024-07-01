@@ -64,3 +64,5 @@
 
 [Deno Park](https://denopark.com/) - 有一个打字记单词的网站，但是支持的语言更多
 
+[让你上瘾的英语学习工具](https://earthworm.cuixueshe.com/)
+
