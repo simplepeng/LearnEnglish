@@ -70,3 +70,4 @@
 
 [YouZack](https://www.youzack.com/) - 杨中科开发的练习听力的网站
 
+[1000h.org](https://1000h.org/) - 李笑来开发的英语学习网站
