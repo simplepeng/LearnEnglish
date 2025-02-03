@@ -58,13 +58,15 @@
 
 ## 一些工具
 
+[duolingo](https://www.duolingo.cn/)
+
 [prettypolly](https://www.prettypolly.app/)
 
 [qwerty-learner](https://qwerty.kaiyi.cool/) - 一个为键盘工作中设计得单词与肌肉记忆锻炼软件
 
 [英语学习网站大全](https://www.yywz123.com/)
 
-[Deno Park](https://denopark.com/) - 有一个打字记单词的网站，但是支持的语言更多
+[Deno Park](https://denopark.com/) - 又一个打字记单词的网站，但是支持的语言更多
 
 [让你上瘾的英语学习工具](https://earthworm.cuixueshe.com/)
 
