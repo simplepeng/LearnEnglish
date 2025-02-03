@@ -2,7 +2,7 @@
 
 [语法总结](/grammar.md)
 
-[思维导图](https://www.zhixi.com/view/68f20a62)
+[思维导图](https://www.zhixi.com/view/7ce99ec2)
 
 ## 书籍
 
