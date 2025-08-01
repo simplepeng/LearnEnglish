@@ -32,6 +32,8 @@
 
 [想学口语基础太差？只会考试不会表达？1个视频让你口语开挂速成！](https://www.bilibili.com/video/BV1Xu4y1H79i)
 
+[施一公：如何提高英语的写作与阅读](https://www.bilibili.com/video/BV1ji4y1G7qm/)
+
 ## 文章
 
 [如何真正开口说英语](https://siri.ink/blog/how_to_learn_english/)
@@ -45,6 +47,8 @@
 [程序员英语学习指南](https://icodeit.org/2020/05/how-to-learn-english/)
 
 [hzpt-inet-club/english-note: 从0开始学习英语语法 (github.com)](https://github.com/hzpt-inet-club/english-note)
+
+[my-past-decade](https://www.himself65.com/blog/my-past-decade)
 
 ## 感谢
 
