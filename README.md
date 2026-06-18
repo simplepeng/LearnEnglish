@@ -70,6 +70,8 @@
 
 [英语学习网站大全](https://www.yywz123.com/)
 
+[英语学习资源导航](https://en.knowledgefxg.com/)
+
 [Deno Park](https://denopark.com/) - 又一个打字记单词的网站，但是支持的语言更多
 
 [让你上瘾的英语学习工具](https://earthworm.cuixueshe.com/)
